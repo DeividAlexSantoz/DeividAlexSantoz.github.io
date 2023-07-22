@@ -1,0 +1,265 @@
+* {
+  margin: 0;
+  position: absolute;
+}
+
+.quadrado {
+  background: #23232e;
+  height: 80px;
+  width: 1920px;
+}
+
+.carta {
+  height: 969px;
+  width: 1920px;
+}
+
+.titulo {
+  color: #FFFF;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  top: 15px;
+  left: 85px;
+}
+
+a {
+  text-decoration: none;
+  color: #FFFF;
+}
+
+a:hover {
+  color: red;
+}
+
+.Home {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 25px;
+  top: 25px;
+  left: 800px;
+}
+
+.about {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 25px;
+  top: 25px;    
+  left: 900px;
+}
+
+.project {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 25px;
+  top: 25px;
+  left: 1000px;
+}
+
+.contact {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 25px;
+  top: 25px;
+  left: 1130px;
+}
+
+.sub {
+  color: #FFFF;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 100px;
+  top: 330px;
+  left: 780px;
+}
+
+.rectangle {
+  background: #23232e;
+  height: 800px;
+  width: 300px;
+  top: 103px;
+  left: 40px;
+}
+
+.sobre {
+  color: #FFFF;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  top: 120px;
+  left: 125px;
+}
+
+.html {
+  height: 80px;
+  width: 80px;
+  border: 1px solid #000;
+  top: 800px;
+  left: 50px;
+}
+
+.css {
+  height: 80px;
+  width: 80px;
+  border: 1px solid #000;
+  top: 800px;
+  left: 150px;
+}
+
+.js {
+  height: 80px;
+  width: 80px;
+  border: 1px solid #000;
+  top: 800px;
+  left: 245px;
+}
+
+.arrow {
+  width: 90px;
+  height: 90px;
+  transform: rotate(179.751deg);
+  top: 400px;
+  left: 150px;
+}
+
+.trabalho {
+  color: #FFFF;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  top: 120px;
+  left: 80px;
+}
+
+.redes {
+  color: #FFFF;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  top: 120px;
+  left: 110px;
+}
+
+.panda {
+  height: 350px;
+  width: 350px;
+  top: 300px;
+  left: 420px;
+  border: 1px solid #000;
+}
+
+.pug {
+  height: 350px;
+  width: 350px;
+  top: 300px;
+  left: 900px;
+  border: 1px solid #000;
+}
+
+.chinesa {
+  height: 350px;
+  width: 350px;
+  top: 300px;
+  left: 1400px;
+  border: 1px solid #000;
+}
+
+.fire {
+  height: 350px;
+  width: 350px;
+  top: 300px;
+  left: 420px;
+  border: 1px solid #000;
+}
+
+.qsmp {
+  height: 350px;
+  width: 350px;
+  top: 300px;
+  left: 900px;
+  border: 1px solid #000;
+}
+
+.jogador {
+  height: 350px;
+  width: 350px;
+  top: 300px;
+  left: 1400px;
+  border: 1px solid #000;
+}
+
+.perfil {
+  height: 100px;
+  width: 100px;
+
+}
+
+.perfil {
+  width: 130px;
+  height: 130px;
+  border-radius: 86px;
+  top: 140px;
+  left: 1600px;
+}
+
+.git {
+  background-color: #FFFF;
+  border-radius: 86px;
+  top: 150px;
+  left: 480px;
+}
+
+.insta {
+  background-color: pink;
+  border-radius: 86px;
+  top: 220px;
+  left: 480px;
+}
+
+.passaro {
+  background-color: rgb(0, 162, 255);
+  border-radius: 86px;
+  top: 300px;
+  left: 480px;
+}
+
+.pinterestt {
+  background-color: red;
+  border-radius: 86px;
+  top:380px;
+  left: 480px;
+}
+
+.conteudo {
+  position: fixed;
+  color: #d60b0b;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  top: 800px;
+  left: 360px;
+}
+
+.obrigado {
+  position: fixed;
+  color: #d60b0b;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  top: 200px;
+  left: 730px;
+}
